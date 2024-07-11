@@ -8,8 +8,8 @@ About Datasets:
 - Dataset Size: 1k records
 
 KPI's:
-To find Target cluster using KMeans unsupervised machine learning algorithm to find univariate, bivariate and multivariate clusters.
-After identifying the cluster, summary statistics has performed to identify the best marketing group.
+1. To find Target cluster using KMeans unsupervised machine learning algorithm to find univariate, bivariate and multivariate clusters.
+2. After identifying the cluster, summary statistics has performed to identify the best marketing group.
 
 Process:
 1. Understanding the problem
